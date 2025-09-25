@@ -1,0 +1,14 @@
+public class DataTypePractice {
+
+	public static void main(String args[])
+	{
+		int a = 10, b = 20, c = 0;
+		
+		float d;
+		c = a++;
+		System.out.println("a = "+a+" c = "+c);
+		
+		c = ++b;
+		System.out.println("b = "+a+" c = "+c);
+	}
+}

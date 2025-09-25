@@ -1,0 +1,17 @@
+
+public class scopeofVariable {
+
+	static int b = 2;
+	private String name = "Indu";
+	int id = 12;
+	public static void main(String args[])
+	{
+		scopeofVariable s = new scopeofVariable();
+		
+		System.out.println(b);
+		System.out.println(s.name);
+		System.out.println(s.id);
+	}
+}
+
+

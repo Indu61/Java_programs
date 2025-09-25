@@ -1,0 +1,14 @@
+
+public class Inheritance {
+
+	int i = 10;
+	String name = "Indu";
+	
+	public static void main(String args[])
+	{
+		Inheritance obj = new Inheritance();
+		obj.i;
+		
+				
+	}
+}
