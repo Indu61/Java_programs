@@ -46,5 +46,7 @@ public class Circle {
 		
 		c1.dispalyCircleInfo();
 		
+		s.close();
+		
 	}
 }

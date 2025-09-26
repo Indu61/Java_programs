@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class Percentage {
 
-	public String sub;
-	public int marks;
+	private String sub;
+	private int marks;
 	
 	public Percentage()
 	{
@@ -54,21 +54,23 @@ public class Percentage {
 		
 		System.out.println("Pecentage = "+(sum*100)/500);
 		
-		Percentage[] p1 = new Percentage[5];
+//		Percentage[] p1 = new Percentage[5];
+//		
+//		for(int i=0; i<5; i++)
+//		{
+//			System.out.println("Enter Subject : ");
+//			p1[i].sub = s.next();
+//			System.out.println("Enter marks : ");
+//			p1[i].marks = s.nextInt();
+//		}
+//		
+//		for(int i=0; i<5; i++)
+//		{
+//			System.out.println("sub = "+p1[i].sub); 
+//			System.out.println("marks = "+p1[i].marks);
+//		}
 		
-		for(int i=0; i<5; i++)
-		{
-			System.out.println("Enter Subject : ");
-			p1[i].sub = s.next();
-			System.out.println("Enter marks : ");
-			p1[i].marks = s.nextInt();
-		}
-		
-		for(int i=0; i<5; i++)
-		{
-			System.out.println("sub = "+p1[i].sub); 
-			System.out.println("marks = "+p1[i].marks);
-		}
+		s.close();
 		
 	}
 }

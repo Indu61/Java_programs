@@ -1,8 +1,6 @@
 INDEX VERSION 1.134+D:\java Cdac practice\java workplace\.metadata\.plugins\org.eclipse.jdt.core
 677949156.index
 1865797976.index
-1601150578.index
 2975989598.index
 3770949718.index
 897057862.index
-2713973163.index
