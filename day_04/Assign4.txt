@@ -1,0 +1,13 @@
+1. Sort elements in an Array both Ascending and Descending Order.
+2. Find min and max element from an Array.
+3. Rotate the Array by Index.
+4. Find no of duplicates element in an Array.
+5. Total of all elements in an Array.
+6. Reverse an Array.
+7. 2D - Accepts Students and there 3 subjects marks. Calculate total of marks and percentage.
+8.Addition , Substraction and Multiplication of 2D Array.
+9. Transpose of an Array.
+10. Matrix Boundry Traversing.
+11. Sprial Matrix Traversing 
+12. Find median of matrix.
+13. Print even and odd from 2D Array.
