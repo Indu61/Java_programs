@@ -2,7 +2,7 @@ package assignments;
 
 import java.util.Scanner;
 
-public class RotateArraybyK {
+public class Student {
 
 	public static void main(String[] args) {
 		
@@ -26,11 +26,11 @@ public class RotateArraybyK {
 		}
 	}
 	
-	int sum;
+	int sum = 0;
 	for(int i=0; i<=3; i++)
 	{
 		sum = 0;
-		for(int j=0; i<=3; j++)
+		for(int j=0; j<=3; j++)
 		{
 			if(j != 0)
 			{
@@ -39,7 +39,7 @@ public class RotateArraybyK {
 			
 		}
 		
-		System.out.println("sum of 3 subject is "+sum);
+		System.out.println("sum of 3 subject of student "+(i+1)+" is "+sum);
 		float percentage = (sum*100)/300;
 		System.out.println("persentage of student "+(i+1)+" is "+percentage);
 	}

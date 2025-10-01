@@ -8,6 +8,6 @@
 8.Addition , Substraction and Multiplication of 2D Array.
 9. Transpose of an Array.
 10. Matrix Boundry Traversing.
-11. Sprial Matrix Traversing 
+11. Sprx Traversing 
 12. Find median of matrix.
 13. Print even and odd from 2D Array.
